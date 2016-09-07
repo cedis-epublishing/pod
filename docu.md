@@ -4,10 +4,10 @@ Key data
 - name of the plugin: Print-on-Demand Plugin
 - author: Aldi Alimucaj, Felix Gründer
 - current version: 1.0.0.0
-- tested on OJS version: 2.4.6
-- github link: https://github.com/ojsde/pod.git
-- community plugin: no
-- date: 24.5.2016
+- tested on OJS version: 2.4.8
+- github link: https://github.com/cedis-epublishing/pod.git
+- community plugin: yes
+- date: 07.09.2016
 
 Description
 ============
